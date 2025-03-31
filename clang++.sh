@@ -3,7 +3,7 @@ cmd="clang++"
 
 type="cc"
 
-cd _$type
+cd $snippets/$type
 
 build=".build"
 

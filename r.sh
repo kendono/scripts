@@ -5,4 +5,4 @@ else
     bin="$1"
 fi
 
-rscript _r/$bin.r
+rscript $snippets/r/$bin.r

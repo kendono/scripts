@@ -3,7 +3,7 @@ cmd="g++"
 
 type="cc"
 
-cd _$type
+cd $snippets/$type
 
 build=".build"
 

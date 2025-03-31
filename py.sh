@@ -5,4 +5,4 @@ else
     bin="$1"
 fi
 
-py _py/$bin.py
+python3 $snippets/py/$bin.py

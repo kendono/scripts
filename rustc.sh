@@ -1,5 +1,5 @@
 
-cd _rs
+cd $snippets/rs
 
 if [ $# -eq 0 ]; then
     filename="_"

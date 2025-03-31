@@ -7,4 +7,6 @@ fi
 
 cd $projects/$target
 
+rm -rf target
+
 cargo run ${@:2}

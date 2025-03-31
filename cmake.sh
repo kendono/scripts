@@ -1,5 +1,5 @@
 
-cd $1
+cd $projects/$1
 
 if [ $# -gt 1 ]; then
     bin=$2
